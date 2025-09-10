@@ -1,7 +1,23 @@
-# Portfolio
-  This is my professional portfolio where I will store all my notable projects, introduce myself, and provide ways to connect. This is still an early version of what I imagine, and soon enough I will host it on the web. Currently there is a static version, where the contact functionality won’t be available. Still feel free to contact me through GitHub or my LinkedIn. Here you'll learn more about me and my goals. You'll also be updated with the latest new things that I'm working on. You'll also see my development in this field, as my skills and toolset expand. If you made it this far, I'll be happy to hear your thoughts and how I can improve in the future!
-# Sources
-  This project wouldn’t have been made without these wonderful resources that I recommend you check out if you’re interested in web design. If I did not credit a source, then I would humbly ask you to comment down below so I can quickly add it. Thank you to these awesome creators who made this project possible.
+# Portfolio Website  
+This is my professional portfolio where I will store all my notable projects, introduce myself, and provide ways to connect. This is still an early version of what I imagine, and soon enough I will host it on the web. Currently there is a static version, where the contact functionality won’t be available. Still feel free to contact me through GitHub or my LinkedIn. Here you'll learn more about me and my goals. You'll also be updated with the latest new things that I'm working on. You'll also see my development in this field, as my skills and toolset expand. If you made it this far, I'll be happy to hear your thoughts and how I can improve in the future! [here](https://yourusername.github.io/Portfolio/)  
+
+---
+
+# Features  
+- Responsive design for desktop and mobile comming soon
+- Project showcase with images and descriptions  
+- About me / biography section  
+- Contact form or social links  
+- Smooth navigation and transitions  
+- More updates planned!  
+
+---
+
+# License
+This project is licensed under the MIT License – see MIT License.
+
+# Acknowledgments
+This project wouldn’t have been made without these wonderful resources that I recommend you check out if you’re interested in web design. If I did not credit a source, then I would humbly ask you to comment down below so I can quickly add it. Thank you to these awesome creators who made this project possible.
   - [PHP-Mailer](https://www.youtube.com/watch?v=EM630O5W-_I) - this would let you send an email in my contact me section
   - [grid-layout](https://www.youtube.com/watch?v=eHaZlFcGl6k) - this help me better understand how to utilize the grid display
   - [scroll-project](https://www.w3schools.com/cssref/pr_pos_overflow.php)
